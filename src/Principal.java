@@ -10,13 +10,13 @@ public class Principal {
             System.out.println("**********************\n" +
                     "Gracias por usar este conversor de monedas\n\n" +
                     "Ingresa la conversion que desees realizar\n\n" +
-                    "1. Dollar a Peso Chileno\n" +
-                    "2. Peso Chileno a Dollar\n" +
-                    "3. Dollar a Peso Argentino\n" +
-                    "4. Peso Argentino a Dollar\n" +
-                    "5. Dollar a Sol Peruano\n" +
-                    "6. Sol Peruano a Dollar\n" +
-                    "7. Convertir otra moneda\n" +
+                    "1. Dólar a Peso Chileno\n" +
+                    "2. Peso Chileno a Dólar\n" +
+                    "3. Dólar a Peso Argentino\n" +
+                    "4. Peso Argentino a Dólar\n" +
+                    "5. Dólar a Sol Peruano\n" +
+                    "6. Sol Peruano a Dólar\n" +
+                    "7. Convertir otra moneda\n" +⁸í
                     "8. Salir");
             opcion = lectura.nextInt();
             lectura.nextLine();
