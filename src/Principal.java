@@ -16,8 +16,9 @@ public class Principal {
                     "4. Peso Argentino a Dólar\n" +
                     "5. Dólar a Sol Peruano\n" +
                     "6. Sol Peruano a Dólar\n" +
-                    "7. Convertir otra moneda\n" +⁸í
+                    "7. Convertir otra moneda\n" +
                     "8. Salir");
+            System.out.print("Selecciona una opción: ");
             opcion = lectura.nextInt();
             lectura.nextLine();
 
@@ -44,11 +45,11 @@ public class Principal {
                     ConvertirMoneda.convertirOtraMoneda(consulta, lectura);
                     break;
                 case 8:
-                    System.out.println("Saliendo del conversor");
+                    System.out.println("👋 Saliendo del conversor...");
                     break;
 
                 default:
-                    System.out.println("Opción no válida");
+                    System.out.println("❌ Opción no válida");
                     break;
             }
         }
