@@ -10,12 +10,12 @@ public class Principal {
             System.out.println("**********************\n" +
                     "Gracias por usar este conversor de monedas\n\n" +
                     "Ingresa la conversion que desees realizar\n\n" +
-                    "1. Dólar a Peso Chileno\n" +
-                    "2. Peso Chileno a Dólar\n" +
-                    "3. Dólar a Peso Argentino\n" +
-                    "4. Peso Argentino a Dólar\n" +
-                    "5. Dólar a Sol Peruano\n" +
-                    "6. Sol Peruano a Dólar\n" +
+                    "1. Dólar(USD) a Peso Chileno(CLP)\n" +
+                    "2. Peso Chileno(CLP) a Dólar(USD)\n" +
+                    "3. Dólar(USD) a Peso Argentino(ARS)\n" +
+                    "4. Peso Argentino(ARS) a Dólar(USD)\n" +
+                    "5. Dólar(USD) a Sol Peruano(PEN)\n" +
+                    "6. Sol Peruano(PEN) a Dólar(USD)\n" +
                     "7. Convertir otra moneda\n" +
                     "8. Salir");
             System.out.print("Selecciona una opción: ");
