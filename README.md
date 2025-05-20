@@ -40,7 +40,7 @@ API_KEY=tu_api_key_aquí
 
 > ⚠️ **Nunca compartas tu API Key ni la subas a GitHub.** Asegúrate de que `config.properties` esté en `.gitignore`.
 
-3. Ejecuta el programa desde tu entorno favorito o con:
+3. Ejecuta el programa desde tu entorno favorito o por consola:
 
 ```bash
 javac src/*.java
